@@ -14,10 +14,12 @@ This repository contains my solutions and projects for Harvard University's CS50
 - [x] **Week 0: Search** 
   - `Degrees`: Finding degrees of separation between actors using BFS.
   - `Tic-Tac-Toe`: Implementing an AI player using the Minimax algorithm.
-- [/] **Week 1: Knowledge** (In Progress)
+- [x] **Week 1: Knowledge**
   - `Knights`: Solving logic puzzles using propositional logic.
   - `Minesweeper`: Building an AI agent that plays Minesweeper using knowledge representation.
-- [ ] **Week 2: Uncertainty** (Upcoming)
+- [/ ] **Week 2: Uncertainty** (In progress)
+  - `PageRank`: Building an AI to rank web pages by importance.
+  - `Heredity`: Creating an AI to assess the likelihood that a person has a particular genetic trait using Bayesian Networks.
 - [ ] **Week 3: Optimization** (Upcoming)
 - [ ] **Week 4: Learning** (Upcoming)
 - [ ] **Week 5: Neural Networks** (Upcoming)
