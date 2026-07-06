@@ -17,7 +17,7 @@ This repository contains my solutions and projects for Harvard University's CS50
 - [x] **Week 1: Knowledge**
   - `Knights`: Solving logic puzzles using propositional logic.
   - `Minesweeper`: Building an AI agent that plays Minesweeper using knowledge representation.
-- [/ ] **Week 2: Uncertainty** (In progress)
+- [x] **Week 2: Uncertainty** 
   - `PageRank`: Building an AI to rank web pages by importance.
   - `Heredity`: Creating an AI to assess the likelihood that a person has a particular genetic trait using Bayesian Networks.
 - [ ] **Week 3: Optimization** (Upcoming)
