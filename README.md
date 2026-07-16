@@ -20,7 +20,8 @@ This repository contains my solutions and projects for Harvard University's CS50
 - [x] **Week 2: Uncertainty** 
   - `PageRank`: Building an AI to rank web pages by importance.
   - `Heredity`: Creating an AI to assess the likelihood that a person has a particular genetic trait using Bayesian Networks.
-- [ ] **Week 3: Optimization** (Upcoming)
+- [x] **Week 3: Optimization** 
+  - `Crossword`: Generating crossword puzzles by modeling them as Constraint Satisfaction Problems (CSPs).
 - [ ] **Week 4: Learning** (Upcoming)
 - [ ] **Week 5: Neural Networks** (Upcoming)
 - [ ] **Week 6: Language** (Upcoming)
