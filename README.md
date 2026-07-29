@@ -22,7 +22,9 @@ This repository contains my solutions and projects for Harvard University's CS50
   - `Heredity`: Creating an AI to assess the likelihood that a person has a particular genetic trait using Bayesian Networks.
 - [x] **Week 3: Optimization** 
   - `Crossword`: Generating crossword puzzles by modeling them as Constraint Satisfaction Problems (CSPs).
-- [ ] **Week 4: Learning** (Upcoming)
+- [x] **Week 4: Learning**
+  - `Shopping`: Building an AI to predict whether online shopping customers will complete a purchase using a k-nearest neighbors classifier.
+  - `Nim`: Training an AI to play the game of Nim through reinforcement learning (Q-Learning).
 - [ ] **Week 5: Neural Networks** (Upcoming)
 - [ ] **Week 6: Language** (Upcoming)
 
@@ -32,5 +34,5 @@ This repository contains my solutions and projects for Harvard University's CS50
 I am particularly interested in exploring how these AI concepts apply to:
 * **Path planning & trajectory optimization** for UAVs/spacecraft (using Search and Optimization algorithms).
 * **Sensor fusion & fault detection** (using Probabilistic models).
-* **Autonomous GNC systems** (Guidance, Navigation, and Control) via Neural Networks.
+* **Autonomous GNC systems** (Guidance, Navigation, and Control) via Neural Networks and Reinforcement Learning.
 
